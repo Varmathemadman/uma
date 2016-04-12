@@ -8,7 +8,7 @@ public class Logging_Example {
 	 */
 	public static void main(String[] args) {
 
-		// add log4j.jar
+		// add log4j.jar yessssss
 		// add log4j.propertie directly inside the src folder
 		// create the object in the code
 		
