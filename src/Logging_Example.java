@@ -1,6 +1,6 @@
 import org.apache.log4j.Logger;
 
-
+//test
 public class Logging_Example {
 
 	/**
