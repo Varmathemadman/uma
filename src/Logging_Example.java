@@ -1,5 +1,5 @@
 import org.apache.log4j.Logger;
-
+//test
 //test
 public class Logging_Example {
 
